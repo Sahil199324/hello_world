@@ -1,2 +1,2 @@
 # hello_world
-just another repository
+Test Github is a repository for showing awesome things
