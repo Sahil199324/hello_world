@@ -1,4 +1,4 @@
-#include<stdio.h>
+ir#include<stdio.h>
 void main()
 {
 printf("hi focks");
